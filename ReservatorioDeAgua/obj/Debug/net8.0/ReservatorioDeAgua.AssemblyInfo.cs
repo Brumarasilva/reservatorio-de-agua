@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReservatorioDeAgua")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a41b445031c51d7fb9aad8f1db9fd4d136774f1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed4fb0bd1f374c99ff7e2db965f0638a0abeeff0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReservatorioDeAgua")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReservatorioDeAgua")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
